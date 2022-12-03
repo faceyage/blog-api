@@ -10,10 +10,6 @@ Frontend: Html, CSS (SCSS), Javascript(React)
 Backend: JavaScript(nodejs), Expressjs  
 Database: Mongodb (mongoose)
 
-## Test Here
-
-[LIVE DEMO 👈]()
-
 ## How to setup
 
 #### Install dependencies using npm.
